@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @UroojKaloi
+- 👀 I’m interested in Datascience,cybersecurity and web developement
+- 🌱 I’m currently learning python and databases
+- lets create something to last forever.
